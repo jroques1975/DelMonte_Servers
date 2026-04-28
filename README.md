@@ -6,3 +6,7 @@
 
 ## Installed Systems
 - Docker Engine: 29.4.1
+
+## Instalations
+### Del Monte Atlas light version
+```Port 8080:80``` 
