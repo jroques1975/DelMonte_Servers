@@ -9,4 +9,4 @@
 
 ## Instalations
 ### Del Monte Atlas light version
-```Port 8080:80``` 
+```dmfp-atlas  Port 8080:80``` 
